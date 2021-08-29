@@ -1,0 +1,22 @@
+C:\Users\talja\source\repos\IG SESSIONID EXTRACTOR\bin\Debug\IG SESSIONID EXTRACTOR.exe.config
+C:\Users\talja\source\repos\IG SESSIONID EXTRACTOR\bin\Debug\IG SESSIONID EXTRACTOR.exe
+C:\Users\talja\source\repos\IG SESSIONID EXTRACTOR\bin\Debug\IG SESSIONID EXTRACTOR.pdb
+C:\Users\talja\source\repos\IG SESSIONID EXTRACTOR\bin\Debug\IG SESSIONID EXTRACTOR.xml
+C:\Users\talja\source\repos\IG SESSIONID EXTRACTOR\obj\Debug\IG SESSIONID EXTRACTOR.vbproj.AssemblyReference.cache
+C:\Users\talja\source\repos\IG SESSIONID EXTRACTOR\obj\Debug\IG_SESSIONID_EXTRACTOR.Resources.resources
+C:\Users\talja\source\repos\IG SESSIONID EXTRACTOR\obj\Debug\IG SESSIONID EXTRACTOR.vbproj.GenerateResource.cache
+C:\Users\talja\source\repos\IG SESSIONID EXTRACTOR\obj\Debug\IG SESSIONID EXTRACTOR.vbproj.CoreCompileInputs.cache
+C:\Users\talja\source\repos\IG SESSIONID EXTRACTOR\obj\Debug\IG SESSIONID EXTRACTOR.exe
+C:\Users\talja\source\repos\IG SESSIONID EXTRACTOR\obj\Debug\IG SESSIONID EXTRACTOR.xml
+C:\Users\talja\source\repos\IG SESSIONID EXTRACTOR\obj\Debug\IG SESSIONID EXTRACTOR.pdb
+C:\Users\talja\Desktop\Developing\VB.NET\Completed Projects\IG SESSIONID EXTRACTOR\bin\Debug\IG SESSIONID EXTRACTOR.exe.config
+C:\Users\talja\Desktop\Developing\VB.NET\Completed Projects\IG SESSIONID EXTRACTOR\bin\Debug\IG SESSIONID EXTRACTOR.exe
+C:\Users\talja\Desktop\Developing\VB.NET\Completed Projects\IG SESSIONID EXTRACTOR\bin\Debug\IG SESSIONID EXTRACTOR.pdb
+C:\Users\talja\Desktop\Developing\VB.NET\Completed Projects\IG SESSIONID EXTRACTOR\bin\Debug\IG SESSIONID EXTRACTOR.xml
+C:\Users\talja\Desktop\Developing\VB.NET\Completed Projects\IG SESSIONID EXTRACTOR\obj\Debug\IG SESSIONID EXTRACTOR.vbproj.AssemblyReference.cache
+C:\Users\talja\Desktop\Developing\VB.NET\Completed Projects\IG SESSIONID EXTRACTOR\obj\Debug\IG_SESSIONID_EXTRACTOR.Resources.resources
+C:\Users\talja\Desktop\Developing\VB.NET\Completed Projects\IG SESSIONID EXTRACTOR\obj\Debug\IG SESSIONID EXTRACTOR.vbproj.GenerateResource.cache
+C:\Users\talja\Desktop\Developing\VB.NET\Completed Projects\IG SESSIONID EXTRACTOR\obj\Debug\IG SESSIONID EXTRACTOR.vbproj.CoreCompileInputs.cache
+C:\Users\talja\Desktop\Developing\VB.NET\Completed Projects\IG SESSIONID EXTRACTOR\obj\Debug\IG SESSIONID EXTRACTOR.exe
+C:\Users\talja\Desktop\Developing\VB.NET\Completed Projects\IG SESSIONID EXTRACTOR\obj\Debug\IG SESSIONID EXTRACTOR.xml
+C:\Users\talja\Desktop\Developing\VB.NET\Completed Projects\IG SESSIONID EXTRACTOR\obj\Debug\IG SESSIONID EXTRACTOR.pdb
