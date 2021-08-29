@@ -1,0 +1,2 @@
+# SessionID-Extractor
+A TOOL TO EXTRACT IG ACCOUNT SESSION ID
